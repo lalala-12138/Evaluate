@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         评教
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      2.0
 // @description  try to take over the world!
-// @author       You
+// @author       山有木兮之
 // @match        http://jwgl2018.xatu.edu.cn/eams/quality/stdEvaluate.action*
 // @match        http://jwgl2018.xatu.edu.cn/eams/quality/stdEvaluate!answer.action*
 // @match        http://jwgl2018.xatu.edu.cn/eams/quality/stdEvaluate!innerIndex.action*
