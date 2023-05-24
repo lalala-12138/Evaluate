@@ -34,7 +34,7 @@ function a() {
 }
 window.confirm = a;
 
-if (location.href.indexOf("innerIndex.action") != -1 | location.href.indexOf("stdEvaluate.action") != -1) {
+if (location.href.indexOf("innerIndex.action") != -1 || location.href.indexOf("stdEvaluate.action") != -1) {
     console.log(location.href);
     sleep(1000);
     document.getElementsByClassName("eval")[0].click();
